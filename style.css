@@ -1,0 +1,22 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: century gothic;
+}
+
+body {
+    background-color: white;
+}
+
+.home {
+    display: flex
+}
+
+.in-flex {
+    flex: 1;
+    padding: 25px;
+}
+.in-flexfirs-child {
+    flex: 2;
+    
+}
